@@ -45,7 +45,7 @@ body .product-container{
 body .product-container .product-img{
     width: 300px;
     height: 450px;
-    background: url(./images/image-product-desktop.jpg) no-repeat;
+    background: url(./image-product-desktop.jpg) no-repeat;
     background-size: cover;
 
     border: 0;
